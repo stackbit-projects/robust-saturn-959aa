@@ -31,7 +31,7 @@ form_fields:
     label: >-
       I understand that this form is storing my submitted information so I can
       be contacted.
-  - input_type: text
+  - input_type: select
     name: lorem-ipsum
     label: lorem-ipsum
     default_value: lorem-ipsum
